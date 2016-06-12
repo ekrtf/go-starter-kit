@@ -10,7 +10,7 @@ This project contains a quick starter kit for **Facebook React** Single Page App
 * server side redirect
 * embedding static files into artefact via bindata
 * high performance [echo](https://github.com/labstack/echo) framework
-* advanced cli via [cli](https://github.com/codegangsta/cli)
+* advanced cli via [cli](https://github.com/urfave/cli)
 * Makefile based project
 * one(!) terminal window process for development
 * routing via [react-router](https://github.com/reactjs/react-router)

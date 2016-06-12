@@ -1,9 +1,9 @@
 base: ./vendor
 dependencies:
-  github.com/codegangsta/cli:
+  github.com/urfave/cli:
     type: git
-    name: github.com/codegangsta/cli
-    remote: https://github.com/codegangsta/cli
+    name: github.com/urfave/cli
+    remote: https://github.com/urfave/cli
     commit: c31a7975863e7810c92e2e288a9ab074f9a88f29
   github.com/elazarl/go-bindata-assetfs:
     type: git
